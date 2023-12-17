@@ -1,4 +1,4 @@
-# Hi there, I'm Putipat Satisoros 👋
+<h1 align="center">Hi 👋, I'm Putipat</h1>
 
 I'm a software developer who specializes in [programming language/field] and currently works at [company name]. In my free time, I love to contribute to open-source projects and work on personal projects.
 
